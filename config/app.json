@@ -1,0 +1,39 @@
+{
+  "id": "document-platform",
+  "title": "Documents, knowledge & meetings",
+  "buyer": "Knowledge workers and document teams",
+  "sourceCount": 12,
+  "sources": [
+    "AIEmailTriageResponseAgent",
+    "AIGroundedClaims",
+    "AIKnowledgeBaseWikiGenerator",
+    "AILocalizationTranslationAgency",
+    "AiMeetingAgent",
+    "AIPlagiarismAIContentDetector",
+    "alfresco",
+    "document_management",
+    "docusign",
+    "makepdf",
+    "pdf_reader",
+    "pdfgenius"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46059,
+  "productName": "Documents, knowledge Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/AIEmailTriageResponseAgent",
+    "/Volumes/external/projects/AIGroundedClaims",
+    "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+    "/Volumes/external/projects/AILocalizationTranslationAgency",
+    "/Volumes/external/projects/AiMeetingAgent",
+    "/Volumes/external/projects/AIPlagiarismAIContentDetector",
+    "/Volumes/external/projects/alfresco",
+    "/Volumes/external/projects/document_management",
+    "/Volumes/external/projects/docusign",
+    "/Volumes/external/projects/makepdf",
+    "/Volumes/external/projects/pdf_reader",
+    "/Volumes/external/projects/pdfgenius"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "app": "document-platform",
+  "features": 198,
+  "sourceApps": 12,
+  "calculatorEngines": 0,
+  "registryHash": "8fdc34f9c133a2e230e2f39afb5958bd79c532378f76bdf1bca5c3c2d99e2ee6",
+  "builtAt": "2026-09-07T22:06:13.703Z",
+  "status": "built"
+}

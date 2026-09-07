@@ -1,0 +1,687 @@
+[
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "contacts",
+      "inbox-views",
+      "emails",
+      "labels",
+      "rules",
+      "categories",
+      "meeting-extractor",
+      "followup-reminder",
+      "spam-intelligence",
+      "inbox-digest",
+      "extract-claims",
+      "ground-claims",
+      "grounding-report",
+      "paraphrase-link",
+      "source-deduplicate",
+      "hallucination-flag",
+      "source-credibility",
+      "quote-verify",
+      "numeric-consistency",
+      "claim-novelty",
+      "rag-answer",
+      "tags",
+      "features",
+      "smart-suggestions",
+      "article-suggester",
+      "faq-generator",
+      "generate",
+      "improve",
+      "translate",
+      "qa",
+      "features-article-suggester",
+      "features-outdated-content",
+      "features-faq-generator",
+      "localize",
+      "grammar",
+      "terminology",
+      "tm",
+      "cultural",
+      "readability",
+      "subtitles",
+      "doc-compare",
+      "competitor",
+      "translator-matcher",
+      "glossary-gen",
+      "bias-check",
+      "generate-quote",
+      "decisions",
+      "assistant",
+      "extract-actions",
+      "topics",
+      "follow-up",
+      "suggest-agenda",
+      "daily-planner",
+      "decision-consensus-check",
+      "redaction-policy-preview",
+      "solutions-air-force",
+      "makepdf",
+      "pdf-reader"
+    ],
+    "ai": true,
+    "representativeId": "contacts",
+    "description": "One assistant for 58 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "contacts",
+        "title": "Contacts & parties",
+        "originalPath": "/features/contacts"
+      },
+      {
+        "id": "inbox-views",
+        "title": "Inbox Views",
+        "originalPath": "/features/inbox-views"
+      },
+      {
+        "id": "emails",
+        "title": "Inbox",
+        "originalPath": "/features/emails"
+      },
+      {
+        "id": "labels",
+        "title": "Labels",
+        "originalPath": "/features/labels"
+      },
+      {
+        "id": "rules",
+        "title": "Rules",
+        "originalPath": "/features/rules"
+      },
+      {
+        "id": "categories",
+        "title": "Categories",
+        "originalPath": "/features/categories"
+      },
+      {
+        "id": "meeting-extractor",
+        "title": "Meeting Extractor",
+        "originalPath": "/features/meeting-extractor"
+      },
+      {
+        "id": "followup-reminder",
+        "title": "Follow-up Reminder",
+        "originalPath": "/features/followup-reminder"
+      },
+      {
+        "id": "spam-intelligence",
+        "title": "Spam Intelligence",
+        "originalPath": "/features/spam-intelligence"
+      },
+      {
+        "id": "inbox-digest",
+        "title": "Inbox Digest",
+        "originalPath": "/features/inbox-digest"
+      },
+      {
+        "id": "extract-claims",
+        "title": "AI · Extract Atomic Claims",
+        "originalPath": "/features/extract-claims"
+      },
+      {
+        "id": "ground-claims",
+        "title": "AI · Ground Claims",
+        "originalPath": "/features/ground-claims"
+      },
+      {
+        "id": "grounding-report",
+        "title": "AI · Build Grounding Report",
+        "originalPath": "/features/grounding-report"
+      },
+      {
+        "id": "paraphrase-link",
+        "title": "AI · Paraphrase Linker",
+        "originalPath": "/features/paraphrase-link"
+      },
+      {
+        "id": "source-deduplicate",
+        "title": "AI · Source Deduplicator",
+        "originalPath": "/features/source-deduplicate"
+      },
+      {
+        "id": "hallucination-flag",
+        "title": "Hallucination flag",
+        "originalPath": "/features/hallucination-flag"
+      },
+      {
+        "id": "source-credibility",
+        "title": "Source credibility",
+        "originalPath": "/features/source-credibility"
+      },
+      {
+        "id": "quote-verify",
+        "title": "Quote verify",
+        "originalPath": "/features/quote-verify"
+      },
+      {
+        "id": "numeric-consistency",
+        "title": "Numeric consistency",
+        "originalPath": "/features/numeric-consistency"
+      },
+      {
+        "id": "claim-novelty",
+        "title": "Claim novelty",
+        "originalPath": "/features/claim-novelty"
+      },
+      {
+        "id": "rag-answer",
+        "title": "Rag answer",
+        "originalPath": "/features/rag-answer"
+      },
+      {
+        "id": "tags",
+        "title": "Tags",
+        "originalPath": "/features/tags"
+      },
+      {
+        "id": "features",
+        "title": "AI Features",
+        "originalPath": "/features/features"
+      },
+      {
+        "id": "smart-suggestions",
+        "title": "Smart Suggestions",
+        "originalPath": "/features/smart-suggestions"
+      },
+      {
+        "id": "article-suggester",
+        "title": "AI Article Suggester",
+        "originalPath": "/features/article-suggester"
+      },
+      {
+        "id": "faq-generator",
+        "title": "AI FAQ Generator",
+        "originalPath": "/features/faq-generator"
+      },
+      {
+        "id": "generate",
+        "title": "Content Generator",
+        "originalPath": "/features/generate"
+      },
+      {
+        "id": "improve",
+        "title": "Writing Improver",
+        "originalPath": "/features/improve"
+      },
+      {
+        "id": "translate",
+        "title": "Translator",
+        "originalPath": "/features/translate"
+      },
+      {
+        "id": "qa",
+        "title": "Q&A Assistant",
+        "originalPath": "/features/qa"
+      },
+      {
+        "id": "features-article-suggester",
+        "title": "Article suggester",
+        "originalPath": "/features/features-article-suggester"
+      },
+      {
+        "id": "features-outdated-content",
+        "title": "Outdated content",
+        "originalPath": "/features/features-outdated-content"
+      },
+      {
+        "id": "features-faq-generator",
+        "title": "Faq generator",
+        "originalPath": "/features/features-faq-generator"
+      },
+      {
+        "id": "localize",
+        "title": "Localize",
+        "originalPath": "/features/localize"
+      },
+      {
+        "id": "grammar",
+        "title": "Grammar",
+        "originalPath": "/features/grammar"
+      },
+      {
+        "id": "terminology",
+        "title": "Terminology",
+        "originalPath": "/features/terminology"
+      },
+      {
+        "id": "tm",
+        "title": "Tm",
+        "originalPath": "/features/tm"
+      },
+      {
+        "id": "cultural",
+        "title": "Cultural",
+        "originalPath": "/features/cultural"
+      },
+      {
+        "id": "readability",
+        "title": "Readability",
+        "originalPath": "/features/readability"
+      },
+      {
+        "id": "subtitles",
+        "title": "Subtitles",
+        "originalPath": "/features/subtitles"
+      },
+      {
+        "id": "doc-compare",
+        "title": "Doc compare",
+        "originalPath": "/features/doc-compare"
+      },
+      {
+        "id": "competitor",
+        "title": "Competitor",
+        "originalPath": "/features/competitor"
+      },
+      {
+        "id": "translator-matcher",
+        "title": "Translator matcher",
+        "originalPath": "/features/translator-matcher"
+      },
+      {
+        "id": "glossary-gen",
+        "title": "Glossary gen",
+        "originalPath": "/features/glossary-gen"
+      },
+      {
+        "id": "bias-check",
+        "title": "Bias check",
+        "originalPath": "/features/bias-check"
+      },
+      {
+        "id": "generate-quote",
+        "title": "Generate quote",
+        "originalPath": "/features/generate-quote"
+      },
+      {
+        "id": "decisions",
+        "title": "Decisions",
+        "originalPath": "/features/decisions"
+      },
+      {
+        "id": "assistant",
+        "title": "AI Assistant",
+        "originalPath": "/features/assistant"
+      },
+      {
+        "id": "extract-actions",
+        "title": "Actions",
+        "originalPath": "/features/extract-actions"
+      },
+      {
+        "id": "topics",
+        "title": "Topics",
+        "originalPath": "/features/topics"
+      },
+      {
+        "id": "follow-up",
+        "title": "Follow-up",
+        "originalPath": "/features/follow-up"
+      },
+      {
+        "id": "suggest-agenda",
+        "title": "Agenda",
+        "originalPath": "/features/suggest-agenda"
+      },
+      {
+        "id": "daily-planner",
+        "title": "Planner",
+        "originalPath": "/features/daily-planner"
+      },
+      {
+        "id": "decision-consensus-check",
+        "title": "Decision Consensus Check",
+        "originalPath": "/features/decision-consensus-check"
+      },
+      {
+        "id": "redaction-policy-preview",
+        "title": "Preview",
+        "originalPath": "/features/redaction-policy-preview"
+      },
+      {
+        "id": "solutions-air-force",
+        "title": "R force",
+        "originalPath": "/features/solutions-air-force"
+      },
+      {
+        "id": "makepdf",
+        "title": "Makepdf work",
+        "originalPath": "/features/makepdf"
+      },
+      {
+        "id": "pdf-reader",
+        "title": "Pdf reader work",
+        "originalPath": "/features/pdf-reader"
+      }
+    ]
+  },
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "drafts",
+      "template-suggester",
+      "email-prioritizer",
+      "citation-coverage",
+      "citation-generate",
+      "api-documentation",
+      "translation-engine",
+      "summarize",
+      "chat",
+      "features-api-documentation",
+      "features-translation-engine",
+      "back-translation",
+      "transcribe"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 16 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "drafts",
+        "title": "Drafts",
+        "originalPath": "/features/drafts"
+      },
+      {
+        "id": "template-suggester",
+        "title": "Template Suggester",
+        "originalPath": "/features/template-suggester"
+      },
+      {
+        "id": "email-prioritizer",
+        "title": "Email Prioritizer",
+        "originalPath": "/features/email-prioritizer"
+      },
+      {
+        "id": "citation-coverage",
+        "title": "Citation coverage",
+        "originalPath": "/features/citation-coverage"
+      },
+      {
+        "id": "citation-generate",
+        "title": "Citation generate",
+        "originalPath": "/features/citation-generate"
+      },
+      {
+        "id": "api-documentation",
+        "title": "AI API Documentation",
+        "originalPath": "/features/api-documentation"
+      },
+      {
+        "id": "translation-engine",
+        "title": "AI Translation Engine",
+        "originalPath": "/features/translation-engine"
+      },
+      {
+        "id": "summarize",
+        "title": "Summarizer",
+        "originalPath": "/features/summarize"
+      },
+      {
+        "id": "chat",
+        "title": "Knowledge Chat",
+        "originalPath": "/features/chat"
+      },
+      {
+        "id": "features-api-documentation",
+        "title": "Api documentation",
+        "originalPath": "/features/features-api-documentation"
+      },
+      {
+        "id": "features-translation-engine",
+        "title": "Translation engine",
+        "originalPath": "/features/features-translation-engine"
+      },
+      {
+        "id": "back-translation",
+        "title": "Back translation",
+        "originalPath": "/features/back-translation"
+      },
+      {
+        "id": "transcribe",
+        "title": "Transcribe",
+        "originalPath": "/features/transcribe"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "priority-scorer",
+      "subject-optimizer",
+      "contradiction-detect",
+      "entailment-score",
+      "search-optimizer",
+      "outdated-content",
+      "features-search-optimizer",
+      "lang-detect",
+      "project-analyzer",
+      "client-insights",
+      "order-optimizer",
+      "insights",
+      "participant-engagement-analyzer",
+      "next-meeting-optimizer",
+      "aiplagiarism-aicontent-detector"
+    ],
+    "ai": true,
+    "representativeId": "priority-scorer",
+    "description": "One assistant for 15 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "priority-scorer",
+        "title": "Priority Scorer",
+        "originalPath": "/features/priority-scorer"
+      },
+      {
+        "id": "subject-optimizer",
+        "title": "Subject Optimizer",
+        "originalPath": "/features/subject-optimizer"
+      },
+      {
+        "id": "contradiction-detect",
+        "title": "AI · Contradiction Detect",
+        "originalPath": "/features/contradiction-detect"
+      },
+      {
+        "id": "entailment-score",
+        "title": "AI · Entailment Score",
+        "originalPath": "/features/entailment-score"
+      },
+      {
+        "id": "search-optimizer",
+        "title": "AI Search Optimizer",
+        "originalPath": "/features/search-optimizer"
+      },
+      {
+        "id": "outdated-content",
+        "title": "AI Outdated Content Detector",
+        "originalPath": "/features/outdated-content"
+      },
+      {
+        "id": "features-search-optimizer",
+        "title": "Search optimizer",
+        "originalPath": "/features/features-search-optimizer"
+      },
+      {
+        "id": "lang-detect",
+        "title": "Lang detect",
+        "originalPath": "/features/lang-detect"
+      },
+      {
+        "id": "project-analyzer",
+        "title": "Project analyzer",
+        "originalPath": "/features/project-analyzer"
+      },
+      {
+        "id": "client-insights",
+        "title": "Client insights",
+        "originalPath": "/features/client-insights"
+      },
+      {
+        "id": "order-optimizer",
+        "title": "Order optimizer",
+        "originalPath": "/features/order-optimizer"
+      },
+      {
+        "id": "insights",
+        "title": "AI Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "participant-engagement-analyzer",
+        "title": "Participant Engagement Analyzer",
+        "originalPath": "/features/participant-engagement-analyzer"
+      },
+      {
+        "id": "next-meeting-optimizer",
+        "title": "Next Meeting Optimizer",
+        "originalPath": "/features/next-meeting-optimizer"
+      },
+      {
+        "id": "aiplagiarism-aicontent-detector",
+        "title": "Plagiarism aicontent detector work",
+        "originalPath": "/features/aiplagiarism-aicontent-detector"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "sales-sequence",
+      "seo",
+      "sentiment",
+      "brand-voice"
+    ],
+    "ai": true,
+    "representativeId": "sales-sequence",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "sales-sequence",
+        "title": "Sales Sequence",
+        "originalPath": "/features/sales-sequence"
+      },
+      {
+        "id": "seo",
+        "title": "Seo",
+        "originalPath": "/features/seo"
+      },
+      {
+        "id": "sentiment",
+        "title": "Sentiment",
+        "originalPath": "/features/sentiment"
+      },
+      {
+        "id": "brand-voice",
+        "title": "Brand voice",
+        "originalPath": "/features/brand-voice"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "evidence-retrieve",
+      "quality",
+      "meeting-quality-score"
+    ],
+    "ai": true,
+    "representativeId": "evidence-retrieve",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "evidence-retrieve",
+        "title": "Evidence retrieve",
+        "originalPath": "/features/evidence-retrieve"
+      },
+      {
+        "id": "quality",
+        "title": "Quality",
+        "originalPath": "/features/quality"
+      },
+      {
+        "id": "meeting-quality-score",
+        "title": "Meeting Quality Score",
+        "originalPath": "/features/meeting-quality-score"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "style-transfer",
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "style-transfer",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "style-transfer",
+        "title": "Style transfer",
+        "originalPath": "/features/style-transfer"
+      },
+      {
+        "id": "history",
+        "title": "History",
+        "originalPath": "/features/history"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "invoice-analyzer"
+    ],
+    "ai": true,
+    "representativeId": "invoice-analyzer",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "invoice-analyzer",
+        "title": "Invoice analyzer",
+        "originalPath": "/features/invoice-analyzer"
+      }
+    ]
+  }
+]

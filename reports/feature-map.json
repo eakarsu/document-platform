@@ -1,0 +1,2224 @@
+{
+  "mapped": [
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/inbox-views",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "inbox-views",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/emails",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "emails",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/drafts",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "drafts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/contacts",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/labels",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "labels",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/rules",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/categories",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "categories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/priority-scorer",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "priority-scorer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/meeting-extractor",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "meeting-extractor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/followup-reminder",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "followup-reminder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/template-suggester",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "template-suggester",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/spam-intelligence",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "spam-intelligence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/email-prioritizer",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "email-prioritizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/subject-optimizer",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "canonical": "subject-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "inbox-digest",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "inbox-digest",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "sales-sequence",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "sales-sequence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/priority-scorer",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "priority-scorer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/meeting-extractor",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "meeting-extractor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/followup-reminder",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "followup-reminder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/template-suggester",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "template-suggester",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/spam-intelligence",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "spam-intelligence",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/email-prioritizer",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "email-prioritizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/subject-optimizer",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "subject-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "/drafts",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/pages/Dashboard.jsx",
+      "canonical": "drafts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "sourceKey": "sla-reply-breach-monitor",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent",
+      "canonical": "sla-reply-breach-monitor",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/claims",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "claims",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/source-corpora",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "source-corpora",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/grounding-reports",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "grounding-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/signatures",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "signatures",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/redaction-logs",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "redaction-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/ai/extract-claims",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "extract-claims",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/ai/ground-claims",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "ground-claims",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/ai/grounding-report",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "grounding-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/ai/contradiction-detect",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "contradiction-detect",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/ai/paraphrase-link",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "paraphrase-link",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/ai/source-deduplicate",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "source-deduplicate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "/ai/entailment-score",
+      "source": "/Volumes/external/projects/AIGroundedClaims/frontend/src/pages/Dashboard.js",
+      "canonical": "entailment-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "wb/pdf-viewer",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "wb-pdf-viewer",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "wb/merkle-viewer",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "wb-merkle-viewer",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "ai/citation-coverage",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "citation-coverage",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "ai/hallucination-flag",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "hallucination-flag",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "ai/source-credibility",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "source-credibility",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "ai/citation-generate",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "citation-generate",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "ai/quote-verify",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "quote-verify",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "ai/numeric-consistency",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "numeric-consistency",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "ai/claim-novelty",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "claim-novelty",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "ai/evidence-retrieve",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "evidence-retrieve",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "ai/rag-answer",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "rag-answer",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "sources",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "sources",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "document-spans",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "document-spans",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "evidence-links",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "evidence-links",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "fact-check-publisher",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "fact-check-publisher",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "provenance-graph",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "provenance-graph",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "bulk-ingest",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "bulk-ingest",
+      "kind": "route"
+    },
+    {
+      "project": "AIGroundedClaims",
+      "sourceKey": "source-staleness-monitor",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "canonical": "source-staleness-monitor",
+      "kind": "route"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/articles",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "articles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/categories",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "categories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/tags",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "tags",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/teams",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "teams",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/bookmarks",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "bookmarks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/ai-features",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "features",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/knowledge-graph",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "knowledge-graph",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/smart-suggestions",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "smart-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "/users",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "canonical": "users",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "article-suggester",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AIFeatures.js",
+      "canonical": "article-suggester",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "api-documentation",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AIFeatures.js",
+      "canonical": "api-documentation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "search-optimizer",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AIFeatures.js",
+      "canonical": "search-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "outdated-content",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AIFeatures.js",
+      "canonical": "outdated-content",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "translation-engine",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AIFeatures.js",
+      "canonical": "translation-engine",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "faq-generator",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AIFeatures.js",
+      "canonical": "faq-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "generate",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AITools.js",
+      "canonical": "generate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "summarize",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AITools.js",
+      "canonical": "summarize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "improve",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AITools.js",
+      "canonical": "improve",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "translate",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AITools.js",
+      "canonical": "translate",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "tags",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AITools.js",
+      "canonical": "tags",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "suggestions",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AITools.js",
+      "canonical": "smart-suggestions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "qa",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AITools.js",
+      "canonical": "qa",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "chat",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/AITools.js",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "password-reset",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "password-reset",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "change-password",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "change-password",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "sort-controls",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "sort-controls",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "csv-export",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "csv-export",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "pdf-export",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "pdf-export",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "bulk-select",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "bulk-select",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "bulk-delete",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "bulk-delete",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "bulk-update",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "bulk-update",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "toast-notifications",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "toast-notifications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "confirm-dialogs",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "confirm-dialogs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "error-boundaries",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "error-boundaries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "skeleton-screens",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "skeleton-screens",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "rbac",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "rbac",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "rate-limiting",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "rate-limiting",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "helmet-headers",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "helmet-headers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "email-verification",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "canonical": "email-verification",
+      "kind": "definition"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "ai-features/article-suggester",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "canonical": "features-article-suggester",
+      "kind": "route"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "ai-features/api-documentation",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "canonical": "features-api-documentation",
+      "kind": "route"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "ai-features/search-optimizer",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "canonical": "features-search-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "ai-features/outdated-content",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "canonical": "features-outdated-content",
+      "kind": "route"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "ai-features/translation-engine",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "canonical": "features-translation-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "ai-features/faq-generator",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "canonical": "features-faq-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "sourceKey": "article-ownership-drift",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "canonical": "article-ownership-drift",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "projects",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "matters",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "clients",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "clients",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "translators",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "translators",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "languages",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "languages",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "glossary",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "glossary",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "orders",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "orders",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "invoices",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "billing",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "files",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "documents",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/translate",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "translate",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/localize",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "localize",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/grammar",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "grammar",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/terminology",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "terminology",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/tm",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "tm",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/quality",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "quality",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/cultural",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "cultural",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/seo",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "seo",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/back-translation",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "back-translation",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/sentiment",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "sentiment",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/lang-detect",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "lang-detect",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/readability",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "readability",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/style-transfer",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "style-transfer",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/summarize",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "summarize",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/brand-voice",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "brand-voice",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/subtitles",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "subtitles",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/doc-compare",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "doc-compare",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/competitor",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "competitor",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/project-analyzer",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "project-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/client-insights",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "client-insights",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/translator-matcher",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "translator-matcher",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/glossary-gen",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "glossary-gen",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/order-optimizer",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "order-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/invoice-analyzer",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "invoice-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/bias-check",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "bias-check",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai/generate-quote",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "generate-quote",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "interp/streaming-asr",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "interp-streaming-asr",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "interp/streaming-mt",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "interp-streaming-mt",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "interp/streaming-tts",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "interp-streaming-tts",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "interp/medical-glossary-pack",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "interp-medical-glossary-pack",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "interp/legal-glossary-pack",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "interp-legal-glossary-pack",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "interp/dialect-adaptation",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "interp-dialect-adaptation",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "interp/speaker-diarization",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "interp-speaker-diarization",
+      "kind": "route"
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "sourceKey": "terminology-drift-qa",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "canonical": "terminology-drift-qa",
+      "kind": "route"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/join-meeting",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "join-meeting",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/recordings",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "recordings",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/meetings",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "meetings",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/action-items",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "action-items",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/notes",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/transcripts",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "transcripts",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/decisions",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "decisions",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/follow-ups",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "follow-ups",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/insights",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/calendar",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/ai-assistant",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/meeting-quality-tools",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "meeting-quality-tools",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/meeting-coach",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "meeting-coach",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/meeting-series",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "meeting-series",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/meeting-views",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "canonical": "meeting-views",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "summarize",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "summarize",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "extract-actions",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "extract-actions",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "sentiment",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "sentiment",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "topics",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "topics",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "follow-up",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "follow-up",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "suggest-agenda",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "suggest-agenda",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "extract-decisions",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "decisions",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "daily-planner",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "daily-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "transcribe",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "transcribe",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "notes",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/AIAssistant.tsx",
+      "canonical": "notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/Dashboard.tsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/ai/meeting-quality-score",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/MeetingQualityTools.tsx",
+      "canonical": "meeting-quality-score",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/ai/participant-engagement-analyzer",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/MeetingQualityTools.tsx",
+      "canonical": "participant-engagement-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/ai/decision-consensus-check",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/MeetingQualityTools.tsx",
+      "canonical": "decision-consensus-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "/ai/next-meeting-optimizer",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/pages/MeetingQualityTools.tsx",
+      "canonical": "next-meeting-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiMeetingAgent",
+      "sourceKey": "decision-reversal-risk",
+      "source": "/Volumes/external/projects/AiMeetingAgent",
+      "canonical": "decision-reversal-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlagiarismAIContentDetector",
+      "sourceKey": "AIPlagiarismAIContentDetector",
+      "source": "/Volumes/external/projects/AIPlagiarismAIContentDetector",
+      "canonical": "aiplagiarism-aicontent-detector",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "alfresco",
+      "sourceKey": "/repository",
+      "source": "/Volumes/external/projects/alfresco/alfresco-ecm/apps/web/components/Navigation.tsx",
+      "canonical": "repository",
+      "kind": "definition"
+    },
+    {
+      "project": "alfresco",
+      "sourceKey": "/workflow/builder",
+      "source": "/Volumes/external/projects/alfresco/alfresco-ecm/apps/web/components/Navigation.tsx",
+      "canonical": "workflow-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "alfresco",
+      "sourceKey": "/sites",
+      "source": "/Volumes/external/projects/alfresco/alfresco-ecm/apps/web/components/Navigation.tsx",
+      "canonical": "sites",
+      "kind": "definition"
+    },
+    {
+      "project": "alfresco",
+      "sourceKey": "/records",
+      "source": "/Volumes/external/projects/alfresco/alfresco-ecm/apps/web/components/Navigation.tsx",
+      "canonical": "records",
+      "kind": "definition"
+    },
+    {
+      "project": "alfresco",
+      "sourceKey": "/admin",
+      "source": "/Volumes/external/projects/alfresco/alfresco-ecm/apps/web/components/Navigation.tsx",
+      "canonical": "admin",
+      "kind": "definition"
+    },
+    {
+      "project": "alfresco",
+      "sourceKey": "Company Home/Finance",
+      "source": "/Volumes/external/projects/alfresco",
+      "canonical": "company-home-finance",
+      "kind": "route"
+    },
+    {
+      "project": "alfresco",
+      "sourceKey": "Company Home",
+      "source": "/Volumes/external/projects/alfresco",
+      "canonical": "company-home",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/document_management/frontend/src/components/layout/DashboardLayout.tsx",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "/folders",
+      "source": "/Volumes/external/projects/document_management/frontend/src/components/layout/DashboardLayout.tsx",
+      "canonical": "folders",
+      "kind": "definition"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/document_management/frontend/src/components/layout/DashboardLayout.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "/users",
+      "source": "/Volumes/external/projects/document_management/frontend/src/components/layout/DashboardLayout.tsx",
+      "canonical": "users",
+      "kind": "definition"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "redaction-policy/preview",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "redaction-policy-preview",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "workflow-bottlenecks",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "workflow-bottlenecks",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "bulk-ocr",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "bulk-ocr",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "retention-flag",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "retention-flag",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "esign/send",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "esign-send",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "security",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "security",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "roadmap",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "roadmap",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "changelog",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "changelog",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "solutions/air-force",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "solutions-air-force",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "solutions/army",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "solutions-army",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "solutions/navy",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "solutions-navy",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "solutions/space-force",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "solutions-space-force",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "solutions/joint-ops",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "solutions-joint-ops",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "documentation",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "documentation",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "api-reference",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "api-reference",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "blog",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "blog",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "webinars",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "webinars",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "case-studies",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "case-studies",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "demo",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "demo",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "compliance",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "accessibility",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "accessibility",
+      "kind": "route"
+    },
+    {
+      "project": "document_management",
+      "sourceKey": "cookies",
+      "source": "/Volumes/external/projects/document_management",
+      "canonical": "cookies",
+      "kind": "route"
+    },
+    {
+      "project": "docusign",
+      "sourceKey": "documents",
+      "source": "/Volumes/external/projects/docusign",
+      "canonical": "documents",
+      "kind": "route"
+    },
+    {
+      "project": "docusign",
+      "sourceKey": "templates",
+      "source": "/Volumes/external/projects/docusign",
+      "canonical": "templates",
+      "kind": "route"
+    },
+    {
+      "project": "makepdf",
+      "sourceKey": "makepdf",
+      "source": "/Volumes/external/projects/makepdf",
+      "canonical": "makepdf",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "pdf_reader",
+      "sourceKey": "pdf_reader",
+      "source": "/Volumes/external/projects/pdf_reader",
+      "canonical": "pdf-reader",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "pdfgenius",
+      "sourceKey": "documents",
+      "source": "/Volumes/external/projects/pdfgenius",
+      "canonical": "documents",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "/ai-advanced",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEmailTriageResponseAgent",
+      "key": "ai-advanced",
+      "source": "/Volumes/external/projects/AIEmailTriageResponseAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGroundedClaims",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGroundedClaims",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGroundedClaims",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGroundedClaims",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIGroundedClaims",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGroundedClaims",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIGroundedClaims",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIGroundedClaims",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGroundedClaims",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "/search",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "/features",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "logout",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator/frontend/src/pages/FeatureShowcase.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "articles/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "articles/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "articles/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "categories/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "tags/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "templates/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "teams/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "features",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "ai-features/article-suggester/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "ai-features/api-documentation/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "ai-features/search-optimizer/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "ai-features/outdated-content/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "ai-features/translation-engine/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "ai-features/faq-generator/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "features",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIKnowledgeBaseWikiGenerator",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIKnowledgeBaseWikiGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AILocalizationTranslationAgency",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILocalizationTranslationAgency",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/",
+      "source": "/Volumes/external/projects/AiMeetingAgent/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiMeetingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiMeetingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiMeetingAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/meetings/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/action-items/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/notes/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/transcripts/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/decisions/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/follow-ups/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/insights/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/templates/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/integrations/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/calendar/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiMeetingAgent",
+      "key": "/decisions/:id/graph",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "alfresco",
+      "key": "/",
+      "source": "/Volumes/external/projects/alfresco/alfresco-ecm/apps/web/components/Navigation.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alfresco",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/alfresco/alfresco-ecm/apps/web/components/Navigation.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alfresco",
+      "key": "/search",
+      "source": "/Volumes/external/projects/alfresco/alfresco-ecm/apps/web/components/Navigation.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/document_management/frontend/src/components/layout/DashboardLayout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "/search",
+      "source": "/Volumes/external/projects/document_management/frontend/src/components/layout/DashboardLayout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/document_management/frontend/src/components/layout/DashboardLayout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/document_management/frontend/src/components/layout/DashboardLayout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "/auto-tagging/:documentId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "document_management",
+      "key": "/compliance-risk/:documentId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "document_management",
+      "key": "/version-plain-english/:documentId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "document_management",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "document_management",
+      "key": "features",
+      "source": "/Volumes/external/projects/document_management",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "pricing",
+      "source": "/Volumes/external/projects/document_management",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "about",
+      "source": "/Volumes/external/projects/document_management",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "help",
+      "source": "/Volumes/external/projects/document_management",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "status",
+      "source": "/Volumes/external/projects/document_management",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "privacy",
+      "source": "/Volumes/external/projects/document_management",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "document_management",
+      "key": "terms",
+      "source": "/Volumes/external/projects/document_management",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "docusign",
+      "key": "login",
+      "source": "/Volumes/external/projects/docusign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "docusign",
+      "key": "register",
+      "source": "/Volumes/external/projects/docusign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "docusign",
+      "key": "/sign/:documentId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "docusign",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "docusign",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/docusign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "docusign",
+      "key": "documents/new/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "docusign",
+      "key": "documents/:id/edit",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "docusign",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/docusign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "docusign",
+      "key": "profile",
+      "source": "/Volumes/external/projects/docusign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "docusign",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/docusign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "docusign",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/docusign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "docusign",
+      "key": "profile",
+      "source": "/Volumes/external/projects/docusign",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pdfgenius",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "pdfgenius",
+      "key": "login",
+      "source": "/Volumes/external/projects/pdfgenius",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pdfgenius",
+      "key": "/documents/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "pdfgenius",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/pdfgenius",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pdfgenius",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "project": "AIPlagiarismAIContentDetector",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "project": "makepdf",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "project": "pdf_reader",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "AIEmailTriageResponseAgent",
+    "name": "Email triage response agent",
+    "sourceProject": "AIEmailTriageResponseAgent",
+    "services": []
+  },
+  {
+    "id": "AIGroundedClaims",
+    "name": "Grounded claims",
+    "sourceProject": "AIGroundedClaims",
+    "services": []
+  },
+  {
+    "id": "AIKnowledgeBaseWikiGenerator",
+    "name": "Knowledge base wiki generator",
+    "sourceProject": "AIKnowledgeBaseWikiGenerator",
+    "services": []
+  },
+  {
+    "id": "AILocalizationTranslationAgency",
+    "name": "Localization translation agency",
+    "sourceProject": "AILocalizationTranslationAgency",
+    "services": []
+  },
+  {
+    "id": "AiMeetingAgent",
+    "name": "Meeting agent",
+    "sourceProject": "AiMeetingAgent",
+    "services": []
+  },
+  {
+    "id": "AIPlagiarismAIContentDetector",
+    "name": "Plagiarism aicontent detector",
+    "sourceProject": "AIPlagiarismAIContentDetector",
+    "services": []
+  },
+  {
+    "id": "alfresco",
+    "name": "Alfresco",
+    "sourceProject": "alfresco",
+    "services": []
+  },
+  {
+    "id": "document_management",
+    "name": "Document management",
+    "sourceProject": "document_management",
+    "services": []
+  },
+  {
+    "id": "docusign",
+    "name": "Docusign",
+    "sourceProject": "docusign",
+    "services": []
+  },
+  {
+    "id": "makepdf",
+    "name": "Makepdf",
+    "sourceProject": "makepdf",
+    "services": []
+  },
+  {
+    "id": "pdf_reader",
+    "name": "Pdf reader",
+    "sourceProject": "pdf_reader",
+    "services": []
+  },
+  {
+    "id": "pdfgenius",
+    "name": "Pdfgenius",
+    "sourceProject": "pdfgenius",
+    "services": []
+  }
+]

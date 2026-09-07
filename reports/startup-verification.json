@@ -1,0 +1,8 @@
+{
+  "id": "document-platform",
+  "port": 46059,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:57.969Z"
+}
